@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: oswald;
+    line-height: 2;
+
+}
+h1 {
+    margin: 0 auto;
+    font-size: 100px; 
+    font-family: 'harrington', Times, serif;
+    color: white;
+    font-weight: normal;
+    line-height: 1;
+   }
+h2 {
+    color: blue
+
+}
+
+h3 {
+    color: red
+}
+p {
+    margin: 0;
+}
+hr {
+
+
+    width: 4%;
+    border: dotted #8dd2eb;
+    border-top: none;
+    margin: 50px auto;
+
+}
+.upper-container { background-color: #8dd2eb;
+    position: relative;
+    padding-top:100px;
+    }
+.profile-photo {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px 40px;
+    
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 31px;
+    padding: 6px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.Dev {
+        text-decoration: underline;
+    }
+.top-cloud {
+    position: absolute;
+    top:30px;
+    right: 300px;
+    width: 10%;
+}
+.down-cloud {
+    position: absolute;
+    bottom: 250px;
+    width: 10%;
+   
+}    
+
+.the-main-job {
+font-size: 30px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.middle-container {
+    margin: 5px;
+}
+.marketing-skill {
+    width: 35%;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.skills{
+    width: 70%;
+    margin: 30px auto 150px auto;
+    text-align: justify;
+
+}
+.programming-skills {
+    width: 35%;
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.skill-row {
+    margin: 0 0 100px 0;
+}
+
+.my-description {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.bottom-container {
+    background-color: #8dd2eb;
+    padding: 30px;
+}
+
+.footer-link {
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: greenyellow
+}
